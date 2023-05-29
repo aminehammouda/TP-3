@@ -1,5 +1,9 @@
 ## By: HAMMOUDA Med Amine
 
+The objective of this practical work is:
+
+Understanding the concepts of Bag of Words (BoW) and TF-IDF (Term Frequency-Inverse Document Frequency).
+Applying them to 2 documents: Doc1 and Doc2 containing textual data.
 
 ```python
 import nltk
